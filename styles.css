@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Sen:wght@400;700&display=swap);/* VARIABLES */
+
+/* SCROLLBARS */
+/* Firefox */
+
+* {
+    font-family: Sen, sans-serif;
+}
+.privacy-policy {
+    color: #1f1f1f;
+    font-size: 1.25em;
+    width: 800px;
+    text-align: justify;
+    margin: 100px auto 10px;
+}
+
+.about-dev {
+    color: #1f1f1f;
+    font-size: 20px;
+    width: 800px;
+    text-align: justify;
+    margin: auto;
+}
+
+.links {
+    text-align: center;
+}
+
+a {
+    color: #1f1f1f;
+}
+
+.link {
+    color: #1f1f1f;
+    margin: 20px 20px;
+}
